@@ -1,0 +1,64 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_8c9dc192"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/settings/index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_dc7f1aaa"
+  },
+  {
+    "name": "article-components-article-comments",
+    "path": "/article/components/article-comments",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/article/components/article-comments.vue",
+    "chunkName": "pages/article/components/article-comments",
+    "_name": "_edaaf594"
+  },
+  {
+    "name": "article-components-article-meta",
+    "path": "/article/components/article-meta",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/article/components/article-meta.vue",
+    "chunkName": "pages/article/components/article-meta",
+    "_name": "_48af31c7"
+  },
+  {
+    "name": "article-slug",
+    "path": "/article/:slug?",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/article/_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_8c354308"
+  },
+  {
+    "name": "editor-id",
+    "path": "/editor/:id?",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/editor/_id.vue",
+    "chunkName": "pages/editor/_id",
+    "_name": "_48935346"
+  },
+  {
+    "name": "profile-id",
+    "path": "/profile/:id?",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/profile/_id.vue",
+    "chunkName": "pages/profile/_id",
+    "_name": "_e6fb0642"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ruicui/Coding_2020/Lagou_Frontend/study_in_class/parts/part3/module3/pratice/7-summary/code/nuxt-realworld/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_320ae6c6"
+  },
+  {
+    "path": "/register",
+    "component": "pages/login/index.vue",
+    "name": "register",
+    "_name": "_4586967a"
+  }
+]

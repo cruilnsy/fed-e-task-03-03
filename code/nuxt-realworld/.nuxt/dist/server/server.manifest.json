@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/article/_slug.js": "pages/article/_slug.js",
+    "pages/article/components/article-comments.js": "pages/article/components/article-comments.js",
+    "pages/article/components/article-meta.js": "pages/article/components/article-meta.js",
+    "pages/editor/_id.js": "pages/editor/_id.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login/index.js": "pages/login/index.js",
+    "pages/profile/_id.js": "pages/profile/_id.js",
+    "pages/settings/index.js": "pages/settings/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/article/_slug.js": "pages/article/_slug.js.map",
+    "pages/article/components/article-comments.js": "pages/article/components/article-comments.js.map",
+    "pages/article/components/article-meta.js": "pages/article/components/article-meta.js.map",
+    "pages/editor/_id.js": "pages/editor/_id.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login/index.js": "pages/login/index.js.map",
+    "pages/profile/_id.js": "pages/profile/_id.js.map",
+    "pages/settings/index.js": "pages/settings/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
